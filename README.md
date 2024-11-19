@@ -1,6 +1,10 @@
 # Sven Co-op Nostalgia HD Items
 for Sven Co-op 5.0+  modified by Garompa, as of 12/09/2024
 
+## Links
+
+- [GoogleDrive](https://drive.google.com/file/d/1KSHynr2s-dYfx87drlmVYjwd-Y0sEF1G/view?usp=sharing)
+
 ## Description
 
 Nostalgia HD Items contains items, ammo and props in HD, with almost 100% fidelity to the original designs from Valve models.
