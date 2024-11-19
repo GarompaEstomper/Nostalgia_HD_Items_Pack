@@ -1,6 +1,9 @@
 # Sven Co-op Nostalgia HD Items
 for Sven Co-op 5.0+  modified by Garompa, as of 12/09/2024
 
+## Preview
+![nostalgia_items](https://github.com/GarompaEstomper/Nostalgia_HD_Items_Pack/blob/main/nostalgia_items.jpg)
+
 ## Links
 
 - [GoogleDrive](https://drive.google.com/file/d/1KSHynr2s-dYfx87drlmVYjwd-Y0sEF1G/view?usp=sharing)
@@ -9,6 +12,11 @@ for Sven Co-op 5.0+  modified by Garompa, as of 12/09/2024
 
 Nostalgia HD Items contains items, ammo and props in HD, with almost 100% fidelity to the original designs from Valve models.
 This also adds a few HD items for some custom map items.
+
+- Glow maps
+- Overlay chromes for added shine effects
+- Blurry text translations into things you can read (based on what the community could make out from those pixels. 99% fidelity!)
+- Some items are animated! Like the battery
 
 
 ## Credits (sorry if I missed someone or made a mistake, please let me know!):
