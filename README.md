@@ -28,7 +28,7 @@ And:
 
 ## Additional Credits (for items)
 
-- All of these people and obviously the Sven Co-op team, the Sven Co-op discord community, Valve and Gearbox.
+All of these people and obviously the Sven Co-op team, the Sven Co-op discord community, Valve and Gearbox.
 
 
 * !NC! Furious  
